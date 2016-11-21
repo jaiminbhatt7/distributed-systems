@@ -1,0 +1,23 @@
+Team Members: 2
+
+- SrinivasBalaji Ramesh
+  UFID : 9421-7395
+- Jaimin Bhatt
+  UFID : 3819-8457
+
+- On compilation 5 warnings and no errors. The program runs successfully upto 20000 nodes.
+
+- The maximum number of nodes for which the program ran successfully tested: 20000
+  maximum number of messages for which the program was successfully tested : 100
+
+- Output of the program for following input sequences
+  
+  -----------------------------------------------------
+  number of nodes   number of messages   avg. hop count
+  -----------------------------------------------------
+       100                 10                4.4648
+       500                 10                5.4640
+       750		   10		     5.9772
+       1000 		   100		     5.9857
+       10000		   100               7.9342
+       20000		   10		     8.4956
